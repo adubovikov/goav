@@ -9,7 +9,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/tetsu-koba/goav/avutil"
+	"github.com/adubovikov/goav/avutil"
 )
 
 //Allocate an empty Context.

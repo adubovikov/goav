@@ -1,4 +1,4 @@
-module github.com/tetsu-koba/goav
+module github.com/adubovikov/goav
 
 go 1.13
 
